@@ -1,0 +1,4 @@
+gazebo: #name of node
+    ros__parameters: # Double underscore 
+      publish_rate: 400.0 #hertz
+
